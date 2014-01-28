@@ -1,0 +1,3 @@
+post_install() {
+  echo "Make sure to copy blackarch.rc.lua to rc.lua!"
+}
